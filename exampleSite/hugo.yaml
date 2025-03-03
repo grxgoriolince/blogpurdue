@@ -344,16 +344,16 @@ params:
 
       - title: Automatic Biomedical Injection System
         content: Worked with a group to develop a radial automatic injection system for biomedical engineering purposes, utilizing stepper motors to create the associated mobile structure.
-        #image: /images/projects/profile2.jpg
-        #featured:
+        image: /images/projects/profile2.jpg
+        featured:
           #name: Demo V2
           #link: https://hugo-profile-2.netlify.app
         badges:
           - "Nextion"
           - "Arduino"
-        links:
-          - icon: fab fa-github
-            url: https://github.com/gurusabarish/HugoProfileV2
+        #links:
+        #  - icon: fab fa-github
+        #    url: https://github.com/gurusabarish/HugoProfileV2
 
       - title: Furuta Inverted Pendulum
         content: Coded a control response algorithm utilizing Matlab and its associated software Simulink to create a self-stabilizing inverted pendulum with two angular degrees of freedom based on classic control engineering theory.
