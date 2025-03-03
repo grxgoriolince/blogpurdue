@@ -1,5 +1,5 @@
 ---
-title: "Blog 1"
+title: "Purdue Arrival"
 date: 2025-02-27T15:07:21+05:30
 draft: false 
 disqus: true
@@ -12,3 +12,4 @@ image: /images/post.jpg
 description: ""
 toc:
 ---
+Hola
