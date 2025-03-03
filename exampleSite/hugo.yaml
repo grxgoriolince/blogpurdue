@@ -314,6 +314,7 @@ params:
     items:
       - title: Dynamic evolution of N-bodies from debris disks, 
         content: Developed a statistical model for the dynamic evolution of planetary systems utilizing Python code run on a supercomputer.
+        image: 
         #featured:
           #name: Demo
           #link: https://hugo-profile.netlify.app
@@ -330,7 +331,7 @@ params:
 
       - title: Proportional Counter Gaseous Ionization Detector for X-ray Detection
         content: Constructed, assembled and soldered a high voltage output circuit utilizing Proteus, and coded the Arduino control algorithm using C++.
-        #image: /images/projects/converter.jpg
+        image: /images/projects/detector.jpeg
         #featured:
           #name: Demo
           #link: https://django-converter.herokuapp.com
@@ -344,7 +345,7 @@ params:
 
       - title: Automatic Biomedical Injection System
         content: Worked with a group to develop a radial automatic injection system for biomedical engineering purposes, utilizing stepper motors to create the associated mobile structure.
-        image: /images/projects/profile2.jpg
+        image: /images/projects/inyector.jpg
         featured:
           #name: Demo V2
           #link: https://hugo-profile-2.netlify.app
@@ -357,6 +358,7 @@ params:
 
       - title: Furuta Inverted Pendulum
         content: Coded a control response algorithm utilizing Matlab and its associated software Simulink to create a self-stabilizing inverted pendulum with two angular degrees of freedom based on classic control engineering theory.
+        image: /images/projects/pendulo.jpeg
         badges: 
           - "Matlab"
           - "Simulink"
