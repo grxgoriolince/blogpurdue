@@ -345,7 +345,7 @@ params:
 
       - title: Automatic Biomedical Injection System
         content: Worked with a group to develop a radial automatic injection system for biomedical engineering purposes, utilizing stepper motors to create the associated mobile structure.
-        image: /images/projects/inyector.jpg
+        image: /images/projects/inyector.jpeg
         featured:
           #name: Demo V2
           #link: https://hugo-profile-2.netlify.app
