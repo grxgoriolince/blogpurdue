@@ -7,8 +7,8 @@ author: "Gregorio Lince"
 tags:
   - Work
   - Social
-  - 
-image: /images/post.jpg
+
+image: /images/purdue.jpeg
 description: ""
 toc:
 ---
