@@ -351,15 +351,16 @@ params:
         badges:
           - "Nextion"
           - "Arduino"
-        #links:
-          #- icon: fab fa-github
-            #url: https://github.com/gurusabarish/HugoProfileV2
+        links:
+          - icon: fab fa-github
+            url: https://github.com/gurusabarish/HugoProfileV2
 
       - title: Furuta Inverted Pendulum
         content: Coded a control response algorithm utilizing Matlab and its associated software Simulink to create a self-stabilizing inverted pendulum with two angular degrees of freedom based on classic control engineering theory.
         badges: 
           - "Matlab"
           - "Simulink"
+
   #Contact
   contact:
     enable: true
