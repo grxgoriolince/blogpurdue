@@ -137,7 +137,7 @@ params:
     title: "Gregorio."
     subtitle: "I build things for the web"
     content: "I am an engineering physics student passionate about everything that is space and how to get there. This blog seeks to document my time undergoing a research experience at Purdue University; the ups and downs of being a foreign student."
-    image: /images/hero.svg
+    image: /images/fotoyo.jpeg
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
