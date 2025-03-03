@@ -134,9 +134,9 @@ params:
   hero:
     enable: true
     intro: "Hi, my name is"
-    title: "Isabella."
+    title: "Gregorio."
     subtitle: "I build things for the web"
-    content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that look great, feel fantastic, and function correctly."
+    content: "I am an engineering physics student passionate about everything that is space and how to get there. This blog seeks to document my time undergoing a research experience at Purdue University; the ups and downs of being a foreign student."
     image: /images/hero.svg
     bottomImage:
       enable: true
