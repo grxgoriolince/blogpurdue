@@ -8,7 +8,7 @@ tags:
   - Work
   - Social
 
-image: /images/purdue.jpeg
+image: exampleSite\content\blogs\images\purdue.jpeg
 description: "First few days at Purdue University"
 toc:
 ---
