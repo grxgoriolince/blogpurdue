@@ -314,10 +314,10 @@ params:
     items:
       - title: Dynamic evolution of N-bodies from debris disks, 
         content: Developed a statistical model for the dynamic evolution of planetary systems utilizing Python code run on a supercomputer.
-        image: 
-        #featured:
-          #name: Demo
-          #link: https://hugo-profile.netlify.app
+        image: /images/projects/astro.jpg
+        featured:
+          name: Image sourced from Lumen Learning
+          link: https://courses.lumenlearning.com/suny-astronomy/chapter/evidence-that-planets-form-around-other-stars/
         badges:
           - "Python"
           - "LaTex"
