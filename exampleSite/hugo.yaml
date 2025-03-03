@@ -367,7 +367,7 @@ params:
     # title: "Custom Name"
     content: My inbox is always open. Whether you have a question or just want to say hi, I’ll try my best to get back to you!
     btnName: Mail me
-    btnLink: mailto:gurusabarisha@gmail.com
+    btnLink: mailto:glince@purdue.edu
     # formspree:
     #   enable: true # `contact.email` value will be ignored
     #   formId: abcdefgh # Take it from your form's endpoint, like 'https://formspree.io/f/abcdefgh'
@@ -383,11 +383,11 @@ params:
       enable: true
       disableFeaturedImage: false
     socialNetworks:
-      github: https://github.com
-      linkedin: https://linkedin.com
-      twitter: https://twitter.com
-      instagram: https://instagram.com
-      facebook: https://facebook.com
+      github: https://github.com/grxgoriolince
+      linkedin: https://www.linkedin.com/in/gregorio-lince-886584191/
+      #twitter: https://twitter.com
+      instagram: https://www.instagram.com/gregoriolince_/
+      #facebook: https://facebook.com
 
   # List pages like blogs and posts
   listPages:
