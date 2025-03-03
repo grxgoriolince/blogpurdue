@@ -9,7 +9,7 @@ tags:
   - Social
 
 image: /images/purdue.jpeg
-description: ""
+description: "First few days at Purdue University"
 toc:
 ---
 
