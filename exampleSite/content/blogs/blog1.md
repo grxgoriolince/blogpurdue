@@ -31,3 +31,7 @@ I have spent the last couple of days going into the lab, room 2261 in the Hampto
 
 #References
 [^1]: Johnson, B. C., & Melosh, H. J. (2012). Formation of spherules in impact produced vapor plumes. Icarus, 217, 416–430. https://doi.org/10.1016/j.icarus.2011.11.020
+[^2]: Alvarez, L.W., Alvarez, W., Asaro, F., Michel, H.V., 1980. Extraterrestrial cause for the
+Cretaceous–Tertiary extinction. Science 208, 1095–1108.
+[^3]: Smit, J., 1999. The global stratigraphy of the Cretaceous–Tertiary boundary impact
+ejecta. Annu. Rev. Earth Planet. Sci. 27, 75–113.
