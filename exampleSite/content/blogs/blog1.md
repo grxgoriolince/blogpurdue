@@ -8,7 +8,7 @@ tags:
   - Work
   - Social
 
-image: exampleSite\content\blogs\images\purdue.jpeg
+image: exampleSite/content/blogs/images/purdue.jpeg
 description: "First few days at Purdue University"
 toc:
 ---
@@ -19,7 +19,7 @@ toc:
 
 ## First days of working
 
-In the two following weeks, we have done a myriad of activies; went grocery shopping, walked around the campus, went to a couple of bars and restaurants, met up with the rest of the Colombian cohort, and met with the faculty members that oversee us. In my case, I met up with Dr. Shigeru Wakita, the person who, up until now, has been my direct supervisor. The faculty member that took me in is Dr. Brandon Johnson, a professor at the Department of Earth, Atmospheric, and Planetary Sciences, who I also had the pleasure of meering last week.
+In the two following weeks, we have done a myriad of activies; went grocery shopping, walked around the campus, went to a couple of bars and restaurants, met up with the rest of the Colombian cohort, and met with the faculty members that oversee us. In my case, I met up with Dr. Shigeru Wakita, the person who, up until now, has been my direct supervisor. The faculty member that took me in is Dr. Brandon Johnson, a professor at the Department of Earth, Atmospheric, and Planetary Sciences, who I also had the pleasure of meeting last week.
 
 ### Icarus
 
