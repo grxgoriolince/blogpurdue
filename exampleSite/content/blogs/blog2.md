@@ -34,7 +34,7 @@ Soren Kierkegaard says, "I have just returned from a party of which I was the li
 
 On a more positive note, Seneca also had an impact on me; about worry, he says, "We suffer more in imagination than in reality." I might just tattoo those words on my forehead.
 
-##References
+## References
 
 Image taken from Johnson, B. C., & Melosh, H. J. 2015, Icarus, 217, 416, doi: 10.1016/j.icarus.2011.10.027.
 
