@@ -1,17 +1,21 @@
 ---
 title: "Los Angeles and the 10000 km impactor"
-date: 2025-03-11T15:07:21+05:30
+date: 2025-04-09T15:07:21+05:30
 draft: false 
 disqus: true
 author: "Gregorio Lince"
 tags:
   - Work
   - Social
+  - Traveling
+  - Literature
 
 image: /images/LA.jpeg
 description: "I went to LA!"
 toc:
 ---
+
+Spring!
 
 # The 10000 km impactor
 

@@ -7,11 +7,15 @@ author: "Gregorio Lince"
 tags:
   - Work
   - Social
+  - Aerospace
+  - Literature
 
 image: /images/maxresdefault.jpg
 description: "I have decided to seek aerospace engineering."
 toc:
 ---
+
+Spring so close...
 
 # Autonomy in Space Exploration
 
