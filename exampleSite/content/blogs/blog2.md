@@ -8,7 +8,7 @@ tags:
   - Work
   - Social
 
-image: exampleSite/static/images/figure13icarus.jpeg
+image: /exampleSite/static/images/figure13icarus.jpeg
 description: "Happy Women's Day!"
 toc: 
 ---
