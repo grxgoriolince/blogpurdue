@@ -8,7 +8,7 @@ tags:
   - Work
   - Social
 
-image: /images/maxresdefault.jpg
+image: /images/LA.jpg
 description: "I went to LA!"
 toc:
 ---
