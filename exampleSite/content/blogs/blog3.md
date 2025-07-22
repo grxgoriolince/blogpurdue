@@ -25,7 +25,7 @@ The whole experience was nothing short of life-changing; so much so that I dared
 
 I had always had an inclination for engineering, considering my career and the massive range of applications of the field; the talk made it my main pursuit. While I love astrophysics, astronomy, and the theoretical aspect of physics, I want to directly contribute to this new emerging era of human exploration. I want to be part of the forefront of this incredible new endeavor, reaching further than anyone before me. I want to build the machines that take humans to places beyond our wildest imaginations, and the way to do this is to dedicate my life to mechanical and aerospace engineering. As Rocket Raccon eloquently put it, "Someday I'm gonna make great machines that fly."
 
-##Meditations
+## Meditations
 
 As for liteature, I recently started reading Meditations, by Marcus Aurelius. I have annotated a few passages, but a few that have stood out to me recently are as follows: 
 
@@ -35,7 +35,7 @@ As for liteature, I recently started reading Meditations, by Marcus Aurelius. I 
 
 The main theme I take from book 1 is gratitude; from book 2, temperance and discipline.
 
-##References
+## References
 
 Image taken from Purdue Engineering Distinguished Lecture Series: "The Era of Autonomy in Space Exploration –
 It’s Finally Here!", https://www.youtube.com/watch?v=e5HO_EeTqg4.
