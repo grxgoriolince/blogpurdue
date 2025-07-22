@@ -1,5 +1,5 @@
 ---
-title: "Purdue Arrival"
+title: "Purdue!"
 date: 2025-02-27T15:07:21+05:30
 draft: false 
 disqus: true
@@ -8,7 +8,7 @@ tags:
   - Work
   - Social
 
-image: purdue.jpeg
+image: /images/purdue.jpeg
 description: "First few days at Purdue University"
 toc:
 ---
