@@ -36,6 +36,6 @@ On a more positive note, Seneca also had an impact on me; about worry, he says, 
 
 ##References
 
-Image taken from Johnson, B. C., & Melosh, H. J. 2015, Icarus, 217, 416, doi: 10.1016/j.icarus.2011.10.027
+Image taken from Johnson, B. C., & Melosh, H. J. 2015, Icarus, 217, 416, doi: 10.1016/j.icarus.2011.10.027.
 
 
