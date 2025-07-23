@@ -14,7 +14,7 @@ description: "June nears, and so does summer."
 toc:
 ---
 
-# Going smaller...
+ Going smaller...
 
 So I have finally breached the kilometer limit. The first iterations of the 100 meter impactor are done, and they are consistent with the trends. This marks a very important part of the project as I have oficially extended the scope of the results presented originally in the paper. 
 
@@ -51,7 +51,7 @@ I also developed scripts to recreate Figure 14 of the paper, which has to do wit
 
 These are consistent with the results reported by Dr. Johnson and Dr. Melosh; the project is going well. 
 
-# Chicago
+## Chicago
 
 As for trips, I have the pleasure of visiting Chicago with some of my friends; my roommates; Sebastian, a friend from home; and Ryan, a friend we made here at Purdue. The latter was the one who drove us, as he has a car and lives in Joliet, Illinois. We stayed over at his house, too. 
 
