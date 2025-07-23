@@ -28,8 +28,8 @@ I also developed scripts to recreate Figure 14 of the paper, which has to do wit
 
 <table> 
     <tr> 
-        <td><img src="/images/Figure14_10km.png" alt="drawing" width="500"/>
-        <td><img src="/images/Figure14_100km.png" alt="drawing" width="500"/>
-        <td><img src="/images/Figure14_100km.png" alt="drawing" width="500"/> 
+        <td><img src="/images/Figure14_10km.png" alt="drawing" width="500" caption="10 km"/>
+        <td><img src="/images/Figure14_100km.png" alt="drawing" width="500" caption="100 km"/>
+        <td><img src="/images/Figure14_100km.png" alt="drawing" width="500" caption="1000 km"/> 
     </tr> 
 </table> 
