@@ -8,7 +8,7 @@ tags:
   - Work
   - Social
 
-image: /images/purdue.jpeg
+image: /images/blog9.jpeg
 description: "My birthday and independence"
 toc:
 ---
