@@ -37,7 +37,7 @@ I sat and talked to other graduate students; Dr. Wakita; Sowon; and even Severin
 
 I regret to inform I have made no progress on Dracula. 
 
-I am also contemplating a lot lately, as I only have a month left before I go back home; I am going to make the most out of it.
+I am in a comtemplative mood lately, as I only have a month left before I go back home; I am going to make the most out of it.
 
 "I feel like a time traveler: June, July, August. Summer dissolves in my mouth and I can't remember what it tasted like." Excerpted from Zoe Lianne's "Erasure".
 
