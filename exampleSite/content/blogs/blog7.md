@@ -1,6 +1,6 @@
 ---
 title: "And when I'm back in Chicago..."
-date: 2025-07-20T15:07:21+05:30
+date: 2025-06-20T15:07:21+05:30
 draft: false 1
 disqus: true
 author: "Gregorio Lince"
