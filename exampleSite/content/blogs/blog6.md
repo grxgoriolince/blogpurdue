@@ -69,7 +69,7 @@ Now, Nighthawks was a painting I had been wanting to see for a while, ever since
 
 Other sections that took my breath were the Monets, the Van Goghs, and American Gothic, among others that I previously did know know about. The whole experience was fascinating, and inspired me to draw again, so much that I bought a new sketchbooks; we'll see what I come up with.
 
-# Books!
+## Books!
 
 I finished Pride and Prejudice and thought it was spectacular. I ventured outside my literary comfort zone and was greatly rewarded for it; I liked it so, in fact, that I have added Jane Eyre to my books-to-read.
 

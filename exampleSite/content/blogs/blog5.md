@@ -7,6 +7,7 @@ author: "Gregorio Lince"
 tags:
   - Work
   - Social
+  - Literature
 
 image: /images/PP.jpeg
 description: "First day of May; Summer nears"
