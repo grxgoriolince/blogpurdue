@@ -20,15 +20,14 @@ So I have finally breached the kilometer limit. The first iterations of the 100 
 
 The current state of Figure 13 is the following:
 
-![Alt text](/images/blog6.jpeg "Current results with the first 100m iterations")
+<img src="/images/blog6.jpeg" alt="drawing" width="500"/>
 
 Very satisfying.
 
 I also developed scripts to recreate Figure 14 of the paper, which has to do with condensation efficiency, both from vapor and from impactor mass. The following figures show condensation fractios for 10, 100, and 1000 km impactors for the entire velocity range.
 
+<img src="/images/Figure14_10km.png" alt="drawing" width="500"/>
 
-![Figure14_10km](/images/Figure14_10km.png, "Figure14_10km")
-<img src="/images/Figure14_10km.png" alt="drawing" width="200"/>
-![Figure14_100km](/images/Figure14_100km.png "Figure14_100km")
+<img src="/images/Figure14_100km.png" alt="drawing" width="500"/>
 
-![Figure14_1000km](/images/Figure14_1000km.png "Figure14_1000km")
+<img src="/images/Figure14_100km.png" alt="drawing" width="500"/>
