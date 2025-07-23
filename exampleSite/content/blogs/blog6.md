@@ -28,7 +28,7 @@ I also developed scripts to recreate Figure 14 of the paper, which has to do wit
 
 
 ![Figure14_10km](/images/Figure14_10km.png, "Figure14_10km")
-
+<img src="/images/Figure14_10km.png" alt="drawing" width="200"/>
 ![Figure14_100km](/images/Figure14_100km.png "Figure14_100km")
 
 ![Figure14_1000km](/images/Figure14_1000km.png "Figure14_1000km")
