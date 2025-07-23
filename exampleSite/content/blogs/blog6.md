@@ -27,6 +27,8 @@ Very satisfying.
 I also developed scripts to recreate Figure 14 of the paper, which has to do with condensation efficiency, both from vapor and from impactor mass. The following figures show condensation fractios for 10, 100, and 1000 km impactors for the entire velocity range.
 
 
-![Alt text](/images/Figure14_10km.jpeg "Figure14_10km")
-![Alt text](/images/Figure14_100km.jpeg "Figure14_100km")
-![Alt text](/images/Figure14_1000km.jpeg "Figure14_1000km")
+![Figure14_10km](/images/Figure14_10km.png, "Figure14_10km")
+
+![Figure14_100km](/images/Figure14_100km.png "Figure14_100km")
+
+![Figure14_1000km](/images/Figure14_1000km.png "Figure14_1000km")
